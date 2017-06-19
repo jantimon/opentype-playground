@@ -1,5 +1,7 @@
 # OpenType.js React playground
 
+This demo generates the WOFF file in realtime and allows to manipulate it.
+
 ## Setup
 
 ```
